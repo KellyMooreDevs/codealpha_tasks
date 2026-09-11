@@ -7,7 +7,7 @@ Two of the four listed tasks were completed, as required (minimum 2–3).
 
 ### ✅ Task 1: Language Translation Tool
 `Task1_Language_Translation_Tool/`
-A web-based translation tool — type text, pick source/target languages, get an instant translation. Uses the free public LibreTranslate API (no signup required). Includes the optional copy-to-clipboard and text-to-speech features.
+A web-based translation tool — type text, pick source/target languages, get an instant translation. Uses the free MyMemory translation API (no signup required). Includes the optional copy-to-clipboard and text-to-speech features.
 See `Task1_Language_Translation_Tool/README.md` for details and a live demo link once deployed.
 
 ### ✅ Task 2: Chatbot for FAQs
